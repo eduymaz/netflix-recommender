@@ -1,0 +1,107 @@
+2025-04-19 12:31:38,609 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-19 13:33:06,546 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-19 13:36:01,301 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-19 13:44:57,031 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-19 13:48:48,634 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-19 13:49:51,643 - INFO - Model başarıyla yüklendi
+2025-04-19 13:49:51,644 - INFO - Kullanıcı özellikleri başarıyla yüklendi
+2025-04-19 13:49:51,658 - INFO - Kullanıcı kümesi belirlendi: 0
+2025-04-19 13:49:51,658 - ERROR - Öneri hatası: 'cluster'
+2025-04-19 13:51:18,001 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-19 13:52:15,842 - INFO - Model başarıyla yüklendi
+2025-04-19 13:52:15,842 - INFO - Kullanıcı özellikleri başarıyla yüklendi
+2025-04-19 13:52:15,854 - INFO - Kullanıcı kümesi belirlendi: 0
+2025-04-19 13:52:15,854 - ERROR - Öneri hatası: 'cluster'
+2025-04-19 13:56:19,272 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-19 13:57:03,510 - INFO - Öneri isteği başladı
+2025-04-19 13:57:03,512 - INFO - Kullanıcı doğrulandı: testuser7
+2025-04-19 13:57:03,512 - INFO - Model dosyası kontrol ediliyor: model_results/kmeans_model.pkl
+2025-04-19 13:57:03,512 - INFO - Kullanıcı özellikleri dosyası kontrol ediliyor: processed_data/user_features.csv
+2025-04-19 13:57:03,512 - INFO - Model yükleniyor...
+2025-04-19 13:57:03,857 - INFO - Model başarıyla yüklendi
+2025-04-19 13:57:03,857 - INFO - Kullanıcı özellikleri yükleniyor...
+2025-04-19 13:57:03,858 - INFO - Kullanıcı özellikleri başarıyla yüklendi
+2025-04-19 13:57:03,858 - INFO - Kullanıcı ID: 94 için özellikler aranıyor...
+2025-04-19 13:57:03,858 - INFO - Küme tahmini yapılıyor...
+2025-04-19 13:57:03,870 - INFO - Kullanıcı kümesi belirlendi: 1
+2025-04-19 13:57:03,870 - INFO - Öneriler hesaplanıyor...
+2025-04-19 13:57:03,870 - ERROR - Öneri hatası: 'cluster'
+Traceback (most recent call last):
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'cluster'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/elifdy/VScode/TurkcellGelecegiYazanlar/MLWTCURSOR/homework_cursor/api/main.py", line 240, in get_recommendations
+    cluster_users = user_features[user_features['cluster'] == cluster]['user_id']
+                                  ~~~~~~~~~~~~~^^^^^^^^^^^
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cluster'
+2025-04-19 14:00:27,430 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/elifdy/VScode/myPython.v1/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-19 14:01:20,190 - INFO - Öneri isteği başladı
+2025-04-19 14:01:20,192 - INFO - Kullanıcı doğrulandı: testuser8
+2025-04-19 14:01:20,195 - INFO - Kullanıcının izleme geçmişi yok, rastgele filmler öneriliyor
+2025-04-19 14:03:35,363 - INFO - Öneri isteği başladı
+2025-04-19 14:03:35,365 - INFO - Kullanıcı doğrulandı: testuser9
+2025-04-19 14:03:35,366 - INFO - Kullanıcının izleme geçmişi yok, rastgele filmler öneriliyor
+2025-04-19 14:05:56,059 - INFO - Öneri isteği başladı
+2025-04-19 14:05:56,060 - INFO - Kullanıcı doğrulandı: testuser9
+2025-04-19 14:05:56,062 - INFO - Kullanıcının favori türleri: ['Aksiyon']
+2025-04-19 14:05:56,064 - INFO - 5 film önerisi bulundu
+2025-04-19 14:07:09,426 - INFO - Öneri isteği başladı
+2025-04-19 14:07:09,428 - INFO - Kullanıcı doğrulandı: testuser10
+2025-04-19 14:07:09,428 - INFO - Kullanıcının izleme geçmişi yok, rastgele filmler öneriliyor
+2025-04-19 14:07:42,572 - INFO - Öneri isteği başladı
+2025-04-19 14:07:42,573 - INFO - Kullanıcı doğrulandı: testuser10
+2025-04-19 14:07:42,575 - INFO - Kullanıcının favori türleri: ['Aksiyon']
+2025-04-19 14:07:42,576 - INFO - 5 film önerisi bulundu

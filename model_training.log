@@ -1,0 +1,96 @@
+2025-04-19 12:20:37,387 - INFO - Model eğitimi başlıyor...
+2025-04-19 12:20:37,390 - INFO - Veriler başarıyla yüklendi
+2025-04-19 12:20:37,411 - INFO - Küme sayısı: 2, Silhouette skoru: 0.3350
+2025-04-19 12:20:37,413 - INFO - Küme sayısı: 3, Silhouette skoru: 0.2751
+2025-04-19 12:20:37,415 - INFO - Küme sayısı: 4, Silhouette skoru: 0.3051
+2025-04-19 12:20:37,416 - INFO - Küme sayısı: 5, Silhouette skoru: 0.3073
+2025-04-19 12:20:37,417 - INFO - Küme sayısı: 6, Silhouette skoru: 0.2960
+2025-04-19 12:20:37,418 - INFO - Küme sayısı: 7, Silhouette skoru: 0.2468
+2025-04-19 12:20:37,420 - INFO - Küme sayısı: 8, Silhouette skoru: 0.2665
+2025-04-19 12:20:37,421 - INFO - Küme sayısı: 9, Silhouette skoru: 0.2835
+2025-04-19 12:20:37,423 - INFO - Küme sayısı: 10, Silhouette skoru: 0.2630
+2025-04-19 12:20:37,423 - INFO - Optimal küme sayısı: 2
+2025-04-19 12:20:37,556 - INFO - KMeans modeli eğitildi
+2025-04-19 12:20:37,633 - INFO - Küme analizi tamamlandı
+2025-04-19 12:20:37,635 - INFO - Model ve analiz sonuçları kaydedildi
+2025-04-19 12:20:37,635 - INFO - Model eğitimi tamamlandı!
+2025-04-19 12:29:34,157 - INFO - Model eğitimi başlıyor...
+2025-04-19 12:29:34,159 - INFO - Veriler başarıyla yüklendi
+2025-04-19 12:29:34,204 - INFO - Küme sayısı: 2, Silhouette skoru: 0.3246
+2025-04-19 12:29:34,206 - INFO - Küme sayısı: 3, Silhouette skoru: 0.2538
+2025-04-19 12:29:34,208 - INFO - Küme sayısı: 4, Silhouette skoru: 0.2579
+2025-04-19 12:29:34,210 - INFO - Küme sayısı: 5, Silhouette skoru: 0.2905
+2025-04-19 12:29:34,211 - INFO - Küme sayısı: 6, Silhouette skoru: 0.2882
+2025-04-19 12:29:34,213 - INFO - Küme sayısı: 7, Silhouette skoru: 0.3075
+2025-04-19 12:29:34,214 - INFO - Küme sayısı: 8, Silhouette skoru: 0.2507
+2025-04-19 12:29:34,216 - INFO - Küme sayısı: 9, Silhouette skoru: 0.2466
+2025-04-19 12:29:34,217 - INFO - Küme sayısı: 10, Silhouette skoru: 0.2613
+2025-04-19 12:29:34,217 - INFO - Optimal küme sayısı: 2
+2025-04-19 12:29:34,351 - INFO - KMeans modeli eğitildi
+2025-04-19 12:29:34,427 - INFO - Küme analizi tamamlandı
+2025-04-19 12:29:34,429 - INFO - Model ve analiz sonuçları kaydedildi
+2025-04-19 12:29:34,429 - INFO - Model eğitimi tamamlandı!
+2025-04-19 12:39:32,748 - INFO - Model eğitimi başlıyor...
+2025-04-19 12:39:32,750 - INFO - Veriler başarıyla yüklendi
+2025-04-19 12:39:32,772 - INFO - Küme sayısı: 2, Silhouette skoru: 0.3246
+2025-04-19 12:39:32,774 - INFO - Küme sayısı: 3, Silhouette skoru: 0.2538
+2025-04-19 12:39:32,776 - INFO - Küme sayısı: 4, Silhouette skoru: 0.2579
+2025-04-19 12:39:32,777 - INFO - Küme sayısı: 5, Silhouette skoru: 0.2905
+2025-04-19 12:39:32,779 - INFO - Küme sayısı: 6, Silhouette skoru: 0.2882
+2025-04-19 12:39:32,781 - INFO - Küme sayısı: 7, Silhouette skoru: 0.3075
+2025-04-19 12:39:32,783 - INFO - Küme sayısı: 8, Silhouette skoru: 0.2507
+2025-04-19 12:39:32,784 - INFO - Küme sayısı: 9, Silhouette skoru: 0.2466
+2025-04-19 12:39:32,786 - INFO - Küme sayısı: 10, Silhouette skoru: 0.2613
+2025-04-19 12:39:32,786 - INFO - Optimal küme sayısı: 2
+2025-04-19 12:39:32,922 - INFO - KMeans modeli eğitildi
+2025-04-19 12:39:33,001 - INFO - Küme analizi tamamlandı
+2025-04-19 12:39:33,003 - INFO - Model ve analiz sonuçları kaydedildi
+2025-04-19 12:39:33,003 - INFO - Model eğitimi tamamlandı!
+2025-04-19 13:28:27,445 - INFO - Model eğitimi başlıyor...
+2025-04-19 13:28:27,446 - INFO - Veriler başarıyla yüklendi
+2025-04-19 13:28:27,479 - INFO - Küme sayısı: 2, Silhouette skoru: 0.3246
+2025-04-19 13:28:27,481 - INFO - Küme sayısı: 3, Silhouette skoru: 0.2538
+2025-04-19 13:28:27,482 - INFO - Küme sayısı: 4, Silhouette skoru: 0.2579
+2025-04-19 13:28:27,484 - INFO - Küme sayısı: 5, Silhouette skoru: 0.2905
+2025-04-19 13:28:27,485 - INFO - Küme sayısı: 6, Silhouette skoru: 0.2882
+2025-04-19 13:28:27,487 - INFO - Küme sayısı: 7, Silhouette skoru: 0.3075
+2025-04-19 13:28:27,489 - INFO - Küme sayısı: 8, Silhouette skoru: 0.2507
+2025-04-19 13:28:27,491 - INFO - Küme sayısı: 9, Silhouette skoru: 0.2466
+2025-04-19 13:28:27,492 - INFO - Küme sayısı: 10, Silhouette skoru: 0.2613
+2025-04-19 13:28:27,492 - INFO - Optimal küme sayısı: 2
+2025-04-19 13:28:27,628 - INFO - KMeans modeli eğitildi
+2025-04-19 13:28:27,702 - INFO - Küme analizi tamamlandı
+2025-04-19 13:28:27,703 - INFO - Model ve analiz sonuçları kaydedildi
+2025-04-19 13:28:27,704 - INFO - Model eğitimi tamamlandı!
+2025-04-19 13:28:30,953 - INFO - Model eğitimi başlıyor...
+2025-04-19 13:28:30,955 - INFO - Veriler başarıyla yüklendi
+2025-04-19 13:28:30,975 - INFO - Küme sayısı: 2, Silhouette skoru: 0.3246
+2025-04-19 13:28:30,976 - INFO - Küme sayısı: 3, Silhouette skoru: 0.2538
+2025-04-19 13:28:30,978 - INFO - Küme sayısı: 4, Silhouette skoru: 0.2579
+2025-04-19 13:28:30,979 - INFO - Küme sayısı: 5, Silhouette skoru: 0.2905
+2025-04-19 13:28:30,981 - INFO - Küme sayısı: 6, Silhouette skoru: 0.2882
+2025-04-19 13:28:30,982 - INFO - Küme sayısı: 7, Silhouette skoru: 0.3075
+2025-04-19 13:28:30,984 - INFO - Küme sayısı: 8, Silhouette skoru: 0.2507
+2025-04-19 13:28:30,986 - INFO - Küme sayısı: 9, Silhouette skoru: 0.2466
+2025-04-19 13:28:30,987 - INFO - Küme sayısı: 10, Silhouette skoru: 0.2613
+2025-04-19 13:28:30,987 - INFO - Optimal küme sayısı: 2
+2025-04-19 13:28:31,116 - INFO - KMeans modeli eğitildi
+2025-04-19 13:28:31,190 - INFO - Küme analizi tamamlandı
+2025-04-19 13:28:31,192 - INFO - Model ve analiz sonuçları kaydedildi
+2025-04-19 13:28:31,192 - INFO - Model eğitimi tamamlandı!
+2025-04-19 13:50:34,586 - INFO - Model eğitimi başlıyor...
+2025-04-19 13:50:34,587 - INFO - Veriler başarıyla yüklendi
+2025-04-19 13:50:34,606 - INFO - Küme sayısı: 2, Silhouette skoru: 0.3246
+2025-04-19 13:50:34,608 - INFO - Küme sayısı: 3, Silhouette skoru: 0.2538
+2025-04-19 13:50:34,610 - INFO - Küme sayısı: 4, Silhouette skoru: 0.2579
+2025-04-19 13:50:34,611 - INFO - Küme sayısı: 5, Silhouette skoru: 0.2905
+2025-04-19 13:50:34,613 - INFO - Küme sayısı: 6, Silhouette skoru: 0.2882
+2025-04-19 13:50:34,614 - INFO - Küme sayısı: 7, Silhouette skoru: 0.3075
+2025-04-19 13:50:34,616 - INFO - Küme sayısı: 8, Silhouette skoru: 0.2507
+2025-04-19 13:50:34,617 - INFO - Küme sayısı: 9, Silhouette skoru: 0.2466
+2025-04-19 13:50:34,619 - INFO - Küme sayısı: 10, Silhouette skoru: 0.2613
+2025-04-19 13:50:34,619 - INFO - Optimal küme sayısı: 2
+2025-04-19 13:50:34,746 - INFO - KMeans modeli eğitildi
+2025-04-19 13:50:34,818 - INFO - Küme analizi tamamlandı
+2025-04-19 13:50:34,819 - INFO - Model ve analiz sonuçları kaydedildi
+2025-04-19 13:50:34,819 - INFO - Model eğitimi tamamlandı!

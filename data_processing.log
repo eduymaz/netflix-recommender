@@ -1,0 +1,40 @@
+2025-04-19 12:19:27,596 - INFO - Veri işleme başlıyor...
+2025-04-19 12:19:27,599 - INFO - Veriler başarıyla yüklendi
+2025-04-19 12:19:27,599 - INFO - Eksik değerler kontrol ediliyor...
+2025-04-19 12:19:27,603 - INFO - Veri temizleme tamamlandı
+2025-04-19 12:19:27,610 - INFO - Özellik mühendisliği tamamlandı
+2025-04-19 12:19:27,612 - INFO - Özellik normalizasyonu tamamlandı
+2025-04-19 12:19:27,613 - ERROR - Veri kaydetme hatası: Cannot save file into a non-existent directory: 'processed_data'
+2025-04-19 12:19:27,613 - ERROR - Veri işleme hatası: Cannot save file into a non-existent directory: 'processed_data'
+2025-04-19 12:20:21,784 - INFO - Veri işleme başlıyor...
+2025-04-19 12:20:21,789 - INFO - Veriler başarıyla yüklendi
+2025-04-19 12:20:21,789 - INFO - Eksik değerler kontrol ediliyor...
+2025-04-19 12:20:21,791 - INFO - Veri temizleme tamamlandı
+2025-04-19 12:20:21,794 - INFO - Özellik mühendisliği tamamlandı
+2025-04-19 12:20:21,795 - INFO - Özellik normalizasyonu tamamlandı
+2025-04-19 12:20:21,797 - INFO - İşlenmiş veriler kaydedildi
+2025-04-19 12:20:21,797 - INFO - Veri işleme tamamlandı!
+2025-04-19 12:29:19,360 - INFO - Veri işleme başlıyor...
+2025-04-19 12:29:19,364 - INFO - Veriler başarıyla yüklendi
+2025-04-19 12:29:19,364 - INFO - Eksik değerler kontrol ediliyor...
+2025-04-19 12:29:19,366 - INFO - Veri temizleme tamamlandı
+2025-04-19 12:29:19,370 - INFO - Özellik mühendisliği tamamlandı
+2025-04-19 12:29:19,371 - INFO - Özellik normalizasyonu tamamlandı
+2025-04-19 12:29:19,373 - INFO - İşlenmiş veriler kaydedildi
+2025-04-19 12:29:19,374 - INFO - Veri işleme tamamlandı!
+2025-04-19 13:28:16,161 - INFO - Veri işleme başlıyor...
+2025-04-19 13:28:16,167 - INFO - Veriler başarıyla yüklendi
+2025-04-19 13:28:16,167 - INFO - Eksik değerler kontrol ediliyor...
+2025-04-19 13:28:16,170 - INFO - Veri temizleme tamamlandı
+2025-04-19 13:28:16,173 - INFO - Özellik mühendisliği tamamlandı
+2025-04-19 13:28:16,174 - INFO - Özellik normalizasyonu tamamlandı
+2025-04-19 13:28:16,176 - INFO - İşlenmiş veriler kaydedildi
+2025-04-19 13:28:16,176 - INFO - Veri işleme tamamlandı!
+2025-04-19 13:50:29,376 - INFO - Veri işleme başlıyor...
+2025-04-19 13:50:29,382 - INFO - Veriler başarıyla yüklendi
+2025-04-19 13:50:29,382 - INFO - Eksik değerler kontrol ediliyor...
+2025-04-19 13:50:29,384 - INFO - Veri temizleme tamamlandı
+2025-04-19 13:50:29,387 - INFO - Özellik mühendisliği tamamlandı
+2025-04-19 13:50:29,388 - INFO - Özellik normalizasyonu tamamlandı
+2025-04-19 13:50:29,390 - INFO - İşlenmiş veriler kaydedildi
+2025-04-19 13:50:29,390 - INFO - Veri işleme tamamlandı!
